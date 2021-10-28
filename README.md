@@ -11,7 +11,7 @@
 
       pytest -v 
       
-      to run all the tests. Fixtures were to avoid to reuse codes.
+      to run all the tests. Fixtures were used to avoid to reuse codes.
 
 4.You will need the following packages if you want to run in local: requests, bs4, requests_html, shutil and pytest.
 5. You have the possiblities to change the global variables as number of top links considered or the keywords on the main.py file.
